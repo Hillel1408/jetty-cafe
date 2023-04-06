@@ -4,8 +4,8 @@ const swiper = new Swiper('.swiper', {
         el: '.swiper-pagination',
         clickable: true,
     },
-    /*autoplay: {
+    autoplay: {
         delay: 2000,
     },
-    loop: true,*/
+    loop: true,
 });
