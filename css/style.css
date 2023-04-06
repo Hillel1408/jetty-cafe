@@ -5,3 +5,8 @@
     font-weight: 300;
     font-style: normal;
 }
+.swiper-slide img {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
