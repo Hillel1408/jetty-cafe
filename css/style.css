@@ -123,6 +123,9 @@ body {
 .contacts__flex a {
     color: white;
 }
+.fp-watermark {
+    display: none;
+}
 
 @media (max-width: 620px) {
     .contacts__flex {
