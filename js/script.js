@@ -9,7 +9,3 @@ const swiper = new Swiper('.swiper', {
     },
     loop: true,
 });
-new fullpage('#fullpage', {
-    //options here
-    autoScrolling: true,
-});
